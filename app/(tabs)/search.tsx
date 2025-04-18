@@ -1,9 +1,9 @@
 import { Text, View } from "react-native";
 
-export default function Home() {
+export default function Search() {
   return (
     <View>
-      <Text>HomeScreen</Text>
+      <Text>Search screen</Text>
     </View>
   );
 }
